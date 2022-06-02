@@ -25,7 +25,7 @@ minimizing binary cross entropy of pairwise distances' similarity metrics.
 We consider the pairwise distance as the key geometry property, and force points on the classifier's hypersphere to have a similar structure as the projection head's, as follows:
 
 <p align="center">
-    <img src="./readme_figures/preserve_structure.png" width="600"> <br>
+    <img src="./readme_figures/preserve_structure.png" width="400"> <br>
 </p>
 
 ## Dependencies

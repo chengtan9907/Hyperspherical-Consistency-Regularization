@@ -8,7 +8,8 @@ This repository contains the implementation code for paper:
 ## Brief introduction
 
 <p float="center">
-    <img src="./readme_figures/cl_on_hypersphere.pdf" width="400"/><img src="./readme_figures/seperable_hypersphere.pdf" width="400"/>
+    <img src="./readme_figures/cl_on_hypersphere.png" width="255"/>
+    <img src="./readme_figures/seperable_hypersphere.png" width="400"/>
 </p>
 
 In this work, we explore the relationship between self-supervised
@@ -24,7 +25,7 @@ minimizing binary cross entropy of pairwise distances' similarity metrics.
 We consider the pairwise distance as the key geometry property, and force points on the classifier's hypersphere to have a similar structure as the projection head's, as follows:
 
 <p align="center">
-    <img src="./readme_figures/preserve_structure.pdf" width="900"> <br>
+    <img src="./readme_figures/preserve_structure.png" width="800"> <br>
 </p>
 
 ## Dependencies

@@ -3,7 +3,7 @@
 This repository contains the implementation code for paper:
 
 **Hyperspherical Consistency Regularization**  
-[Cheng Tan](https://westlake-drug-discovery.github.io/zhangyang_gao.html), [Zhangyang Gao](http://web.mit.edu/phillipi/), [Lirong Wu](https://lirongwu.github.io/), [Siyuan Li](https://scholar.google.com/citations?user=SKTQTXwAAAAJ&hl), [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl). In [CVPR](https://arxiv.org/abs/2206.00845), 2022.
+[Cheng Tan](https://westlake-drug-discovery.github.io/cheng_tan.html), [Zhangyang Gao](https://westlake-drug-discovery.github.io/zhangyang_gao.html), [Lirong Wu](https://lirongwu.github.io/), [Siyuan Li](https://scholar.google.com/citations?user=SKTQTXwAAAAJ&hl), [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl). In [CVPR](https://arxiv.org/abs/2206.00845), 2022.
 
 ## Brief introduction
 

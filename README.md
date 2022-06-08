@@ -51,7 +51,12 @@ for epoch in epochs:
 If you are interested in our repository and our paper, please cite the following paper:
 
 ```
-TBD
+@article{tan2022hyperspherical,
+  title={Hyperspherical Consistency Regularization},
+  author={Tan, Cheng and Gao, Zhangyang and Wu, Lirong and Li, Siyuan and Li, Stan Z},
+  journal={arXiv preprint arXiv:2206.00845},
+  year={2022}
+}
 ```
 
 ## Contact

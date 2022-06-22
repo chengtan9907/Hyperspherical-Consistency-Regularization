@@ -51,6 +51,17 @@ for epoch in epochs:
 If you are interested in our repository and our paper, please cite the following paper:
 
 ```
+@InProceedings{Tan_2022_CVPR,
+    author    = {Tan, Cheng and Gao, Zhangyang and Wu, Lirong and Li, Siyuan and Li, Stan Z.},
+    title     = {Hyperspherical Consistency Regularization},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {7244-7255}
+}
+```
+Or, 
+```
 @article{tan2022hyperspherical,
   title={Hyperspherical Consistency Regularization},
   author={Tan, Cheng and Gao, Zhangyang and Wu, Lirong and Li, Siyuan and Li, Stan Z},
